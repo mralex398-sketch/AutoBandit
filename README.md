@@ -24,6 +24,6 @@
    ```bash
    git clone https://github.com/mralex398-sketch/AutoBandit.git
 2. Перейти в папку 
-   cd AutoBandit
+   cd AutoBandit-master
 3. Запустить скрипт
-   python autobandit.py
+   python AutoBandit.py
