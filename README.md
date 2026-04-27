@@ -22,4 +22,8 @@
 ## 🚀 Как запустить
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/mralex398-sketch/Bandit-Automator.git
+   git clone https://github.com/mralex398-sketch/AutoBandit.git
+2. Перейти в папку 
+   cd AutoBandit
+3. Запустить скрипт
+   python autobandit.py
